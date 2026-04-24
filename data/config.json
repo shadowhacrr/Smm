@@ -1,0 +1,26 @@
+{
+  "owner": {
+    "username": "shadow",
+    "password": "1234"
+  },
+  "pricing": {
+    "followers": {
+      "base": 300,
+      "unit": 100
+    },
+    "likes": {
+      "base": 200,
+      "unit": 100
+    },
+    "comments": {
+      "base": 500,
+      "unit": 50
+    },
+    "shares": {
+      "base": 150,
+      "unit": 100
+    }
+  },
+  "siteName": "TikTok Boost Pro",
+  "whatsappNumber": "+923001234567"
+}
